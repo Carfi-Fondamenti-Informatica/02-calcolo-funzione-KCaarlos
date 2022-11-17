@@ -10,19 +10,22 @@ cin>>a>>b>>c>>d;
    if(x<0 && y>0){
    
        z=a*x-b*y;
-}
-   else if (x>=0 && y<=0){
+      cout<<z<<endl;
+
+  } else if (x>=0 && y<=0){
       
        z=a*(x^2)-b*y;
+      cout<<z<<endl;
    
 }  
    
-   else if {
+   else  {
       
        z=a*x+b*(y*2);
-}  
+      cout<<z<<endl;
+   }
    
-  cout<<z<<endl;
+ 
    
    return 0;
 }
