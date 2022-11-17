@@ -14,14 +14,14 @@ cin>>a>>b>>c>>d;
 
   } else if (x>=0 && y<=0){
       
-       z=a*(x^2)-b*y;
+       z=a*(x*x)-b*y;
       cout<<z<<endl;
    
 }  
    
    else  {
       
-       z=a*x+b*(y^2);
+       z=a*x+b*(y*y);
       cout<<z<<endl;
    }
    
