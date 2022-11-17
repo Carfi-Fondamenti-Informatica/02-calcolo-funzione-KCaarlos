@@ -21,7 +21,7 @@ cin>>a>>b>>c>>d;
    
    else  {
       
-       z=a*x+b*(y*2);
+       z=a*x+b*(y^2);
       cout<<z<<endl;
    }
    
