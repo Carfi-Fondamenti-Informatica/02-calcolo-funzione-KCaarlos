@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
    
-float a=0,b=0;
+int a=0,b=0;
 Int x=0,y=0,z=0;
    
 cin>>a>>b>>c>>d;
