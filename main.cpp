@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
    
-float a=0,b=0,x=0,y=0,z=0;
+int a=0,b=0,x=0,y=0,z=0;
    
 cin>>a>>b>>c>>d;
    
@@ -17,7 +17,7 @@ cin>>a>>b>>c>>d;
    
 }  
    
-   else {
+   else if {
       
        z=a*x+b*(y*2);
 }  
